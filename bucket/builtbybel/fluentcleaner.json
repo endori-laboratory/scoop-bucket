@@ -1,16 +1,16 @@
 {
-    "version": "26.06.02",
+    "version": "26.06.03",
     "description": "FluentCleaner is a modern Windows cleanup tool built with WinUI3 and powered by the winapp2.ini ecosystem.",
     "homepage": "https://github.com/builtbybel/FluentCleaner",
     "license": "MIT",
     "architecture": {
         "64bit": {
             "url": [
-                "https://github.com/builtbybel/FluentCleaner/releases/download/26.06.02/FluentCleaner-win-x64.zip",
-                "https://github.com/builtbybel/FluentCleaner/releases/download/26.06.02/Custom.zip"
+                "https://github.com/builtbybel/FluentCleaner/releases/download/26.06.03/FluentCleaner-win-x64.zip",
+                "https://github.com/builtbybel/FluentCleaner/releases/download/26.06.03/Custom.zip"
             ],
             "hash": [
-                "df2bf47d049e95cf3d0ba535d8f77093c645ecc3dbdb2edd83bdeed8726b0eef",
+                "2a18daf98c71c29570db8bc4f85ad1e8a4f1c19d9cbc4b22380c33b77ae9cff8",
                 "e955f87694c7ba098840905bd97b0b3673178bee08f3adf242159bc63329e587"
             ]
         }
